@@ -2,11 +2,11 @@
 ![Sales_cash](https://github.com/mikeolaniyi/Sales_and_Transactions_Report_on_PowerBI/assets/120651356/53d585d0-c8d8-4023-ac62-456ebb802102)
 
 
-This Power Bi Reoirt of Sales Analysis reveals detailed sales report of the business.
+This Power Bi Report of Sales Analysis reveals a detailed sales report of the business.
 
 
 Sales and Transactions Report by Period
-Total sales over the period amounts to $180,685.82 and Total number of Transactions is 374.
+Total sales over the period amount to $180,685.82 and the Total number of Transactions is 374.
 
 ![Sales_2](https://github.com/mikeolaniyi/Sales_and_Transactions_Report_on_PowerBI/assets/120651356/417ebd77-4930-465b-96dc-98387cf53f91)
 
