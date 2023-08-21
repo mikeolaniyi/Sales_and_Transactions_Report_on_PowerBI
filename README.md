@@ -1,5 +1,6 @@
 # Sales and Transactions Report on PowerBI
-![Sales_cash](https://github.com/mikeolaniyi/Sales_and_Transactions_Report_on_PowerBI/assets/120651356/c5277b0b-4045-4290-87ac-e6049d239bee)
+![Sales_cash](https://github.com/mikeolaniyi/Sales_and_Transactions_Report_on_PowerBI/assets/120651356/53d585d0-c8d8-4023-ac62-456ebb802102)
+
 
 This Power Bi Reoirt of Sales Analysis reveals detailed sales report of the business.
 
