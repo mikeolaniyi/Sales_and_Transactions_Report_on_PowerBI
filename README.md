@@ -1,6 +1,23 @@
 # Sales and Transactions Report on PowerBI
-![Sales_cash](https://github.com/mikeolaniyi/Sales_and_Transactions_Report_on_PowerBI/assets/120651356/53d585d0-c8d8-4023-ac62-456ebb802102)
+![Sales_Transaction](https://github.com/mikeolaniyi/Sales_and_Transactions_Report_on_PowerBI/assets/120651356/492bb47f-774f-4468-959f-edfc437f0912)
 
+
+# Sales Transaction Report Analysis on Power BI
+The following highlights Sales transactions over the period of 4 years:
+
+- How sales trended over the Month
+- How Customer Segments Rank over the Month
+- Average Sales by Day of Week
+- No of Transaction by Day of the Week
+- Top 10 State by Sales
+- Bottom10 State by Sales
+- Percentage of Transaction Shipments of the Top 10 States
+- Sales Distribution by Cities
+- Advanced Sales Exploration & Analysis
+- Decomposition tree
+- Key Influencers
+- Ask your Questions Button; to get more insight.
+- etc.
 
 This Power Bi Report of Sales Analysis reveals a detailed sales report of the business.
 
