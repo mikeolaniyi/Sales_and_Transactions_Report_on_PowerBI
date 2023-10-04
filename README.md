@@ -25,7 +25,7 @@ This Power Bi Report of Sales Analysis reveals a detailed sales report of the bu
 Sales and Transactions Report by Period
 Total sales over the period amount to $180,685.82 and the Total number of Transactions is 374.
 
-**[View Dashboard on Power BI](https://app.powerbi.com/view?r=eyJrIjoiMzJmMThhYmItMjg3ZS00YjMxLTgxMWYtOWRjZmQzNDM5OTFlIiwidCI6IjEyMWFkMTYxLTk3MTAtNDQ3Ny1iYjZlLWJmZWNlMmMyMmFjOSJ9)**
+## **[View Dashboard on Power BI](https://app.powerbi.com/view?r=eyJrIjoiMzJmMThhYmItMjg3ZS00YjMxLTgxMWYtOWRjZmQzNDM5OTFlIiwidCI6IjEyMWFkMTYxLTk3MTAtNDQ3Ny1iYjZlLWJmZWNlMmMyMmFjOSJ9)**
 
 ![Sales_2](https://github.com/mikeolaniyi/Sales_and_Transactions_Report_on_PowerBI/assets/120651356/417ebd77-4930-465b-96dc-98387cf53f91)
 
