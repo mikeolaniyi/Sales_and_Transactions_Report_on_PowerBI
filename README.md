@@ -1,8 +1,8 @@
 # Sales and Transactions Report on PowerBI
+By Michael Olaniyi Jeremiah
 ![Sales_Transaction](https://github.com/mikeolaniyi/Sales_and_Transactions_Report_on_PowerBI/assets/120651356/492bb47f-774f-4468-959f-edfc437f0912)
 
 
-# Sales Transaction Report Analysis on Power BI
 The following highlights Sales transactions over the period of 4 years:
 
 - How sales trended over the Month
@@ -43,3 +43,42 @@ This Power BI Report of Sales Analysis reveals a detailed sales report of the bu
 - Total sales over the period amount to $2,297,200.86 and the Total number of Transactions is 5009
 
 
+
+
+## Insights and Recommendations:
+
+
+**1. Geographical Focus:**
+
+Key Insight:  States like New York, Pennsylvania, and Ohio lead in sales, while Vermont, Delaware, and Rhode Island are underperforming.
+
+Recommendation: The company should focus more marketing and promotional efforts on underperforming states to improve sales, possibly by understanding customer preferences in these regions.
+
+**2. Customer Segmentation:**
+
+Key Insight: The customer segments of Consumer and Corporate consistently drive higher sales compared to the Home Office segment.
+
+Recommendation: Further analysis on Home Office customers may reveal opportunities to better tailor products or services for this group, thereby enhancing sales in that segment.
+
+**3. Transaction Trends:**
+
+Key Insight: Sales volume peaks on weekdays, particularly between Monday and Friday, with fewer transactions on weekends.
+
+Recommendation: Launching special weekend promotions or discounts could help boost sales during these lower-transaction days.
+
+**4. Shipping Preferences:**
+
+Key Insight: There’s a significant preference for Standard Class shipping across most states, with First Class and Same Day options underutilized.
+
+Recommendation: Offering incentives or discounts for faster shipping options could encourage customers to opt for premium shipping services, enhancing customer satisfaction.
+
+**5. Top Product Categories:**
+
+Key Insight: Tables, Chairs, and Technology consistently influence sales increases.
+
+Recommendation: Increase the stock and availability of these high-performing products and consider bundling related products (e.g., chairs with tables) to encourage larger purchases.
+
+These insights suggest that targeted marketing, product promotions, and improving regional strategies could significantly boost sales and improve overall performance.
+
+
+Thank you for taking the time to read through this project, kindly drop comments on your thoughts, suggestions etc.
